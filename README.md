@@ -35,7 +35,7 @@ Additionally, you have an option to select which Service Desk Experience you'd l
 
 You can enable Multi-Factor Authentication (MFA) using an Authentication Application - most OTP-compliant (one-time password) applications can be used, such as Passly, Google Authenticator, Authy, and more.
 
-** Enabling MFA on your BMS Account**
+**Enabling MFA on your BMS Account**
 
 Under the Personal Information tab on your profile, you will be able to control MFA Settings for your BMS account. It all begins with the click of a button!
 
@@ -161,7 +161,6 @@ Home > My Templates.
 #### Creating a Template
 
 1. **Templates**: Click **New (N)** to select one of three types of ticket template:
-
 	- "Ticket Template" - Defines custom templates for tickets. You select this type of template using the From Template field when adding a new ticket.
 	- "Ticket Note Template" - Defines custom templates for notes in tickets. You select this type of template using the From Template field when adding a note to a ticket.
 	- "Ticket Time Entry Template"  - Defines custom templates for time log entries in tickets. You select this type of template using the From Template field when adding a time log entry to a ticket.
